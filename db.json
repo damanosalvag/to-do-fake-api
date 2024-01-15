@@ -1,0 +1,36 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Note 1",
+      "text": "This is a note",
+      "date": "13/01/2024"
+    },
+    {
+      "id": "2",
+      "title": "Note 2",
+      "text": "Esta es la nota 2",
+      "date": "11/01/2024"
+    },
+    {
+      "id": 412612,
+      "text": "Dairo Alfonso Manosalva Gutierrez",
+      "date": "2024-01-14T02:44:04.800Z"
+    },
+    {
+      "id": 971515,
+      "text": "Otra nota",
+      "date": "2024-01-14T03:25:05.921Z"
+    },
+    {
+      "id": 971516,
+      "text": "Mas notas",
+      "date": "2024-01-14T03:25:05.921Z"
+    },
+    {
+      "id": "IYOW3",
+      "text": "Otras mas Notas",
+      "date": "2024-01-14T03:29:49.214Z"
+    }
+  ]
+}
